@@ -10,8 +10,5 @@
 
 </div>
 
-## Current Projects
-
-### [**Rizek000.com**](https://www.Rizek000.com/)
 
 
