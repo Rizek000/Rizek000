@@ -22,9 +22,9 @@
 
 ### Current Work at Polarity
 - 🔗 Worked on the Spark protocol in Rust (https://spark.info)
-- 🚀 Building distributed systems for Bitcoin L2 solutions
+- 🚀 Worked on distributed systems for Bitcoin L2 solutions
 - ⚡ Implementing performance optimizations
-- 🔄 Developing DEX components
+- 🔄 Developing CEX/DEX components
 - 📊 Working with infrastructure and monitoring tools
 
 ### Previous Projects
