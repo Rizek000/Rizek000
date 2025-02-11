@@ -15,13 +15,13 @@
 - 🚀 Currently building [Flashnet](https://www.flashnet.xyz/) at Polarity
 - 💻 Software Developer working with Rust and C++
 - 🌐 Focused on Web3 and distributed systems
-- ⚡ Working with Bitcoin protocol development
+- ⚡ Working with Bitcoin
 - 🛠️ Full stack developer with React and TypeScript
 
 <h2 align="center"> <b> Experience 💼 </b> </h2>
 
 ### Current Work at Polarity
-- 🔗 Working on the Spark platform
+- 🔗 Worked on the Spark protocol in Rust (https://spark.info)
 - 🚀 Building distributed systems for Bitcoin L2 solutions
 - ⚡ Implementing performance optimizations
 - 🔄 Developing DEX components
