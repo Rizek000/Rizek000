@@ -68,10 +68,7 @@
 <a href="https://www.flashnet.xyz/"><img src="https://img.shields.io/badge/-flashnet.xyz-000000?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
-<br>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rizek000&color=81b29a&style=for-the-badge&label=Profile Views"/>
-</p>
+
 
 <h1 align="center"> GitHub Stats 📊 </h1>
 <br>
@@ -80,10 +77,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rizek000&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/> &nbsp;
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizek000&theme=algolia&layout=compact"/>
 </a>
-</p>
-
-<p align="center">
-<img height="250em" src="https://activity-graph.herokuapp.com/graph?username=Rizek000&theme=github"/>
 </p>
 
 <hr>
