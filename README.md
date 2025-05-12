@@ -16,7 +16,7 @@
 - 💻 Software Developer working with Rust and C++
 - 🌐 Focused on Web3 and distributed systems
 - ⚡ Working with Bitcoin
-- 🛠️ Full stack developer with React and TypeScript
+- 🛠️ Rustacean - after yet another Null Pointer Exception, I looked deep into the void...
 
 <h2 align="center"> <b> Experience 💼 </b> </h2>
 
