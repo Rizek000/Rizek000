@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&pause=1000&color=FF9B54&center=true&vCenter=true&width=500&height=80&lines=Hey+There!!+%F0%9F%91%8B;I'm+Matija+Sobo%C4%8Dan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Web3+Future+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center"> Web3 Development 🌐 | Systems Programming 💻 </h2>
+<h2 align="center"> sys dev </h2>
 
 <br>
 <p align="center">
