@@ -12,27 +12,25 @@
 
 <h1 align="center"> About Me 📑 </h1>
 
-- 🚀 Currently building [Flashnet](https://www.flashnet.xyz/) at Polarity
-- 💻 Software Developer working with Rust and C++
-- 🌐 Focused on Web3 and distributed systems
-- ⚡ Working with Bitcoin
-- 🛠️ Rustacean - after yet another Null Pointer Exception, I looked deep into the void...
-
+-  Currently building [Flashnet](https://www.flashnet.xyz/) at Polarity
+- 💻Software Developer working with Rust and C++
+-  Focused on Web3 and distributed systems
+-  Working with Bitcoin
+- Rustacean
 <h2 align="center"> <b> Experience 💼 </b> </h2>
 
 ### Current Work at Polarity
-- 🔗 Worked on the Spark protocol in Rust (https://spark.info)
-- 🚀 Worked on distributed systems for Bitcoin L2 solutions
-- ⚡ Implementing performance optimizations
-- 🔄 Developing CEX/DEX components
-- 📊 Working with infrastructure and monitoring tools
+-  Worked on the Spark protocol in Rust (https://spark.info)
+-  Worked on distributed systems for Bitcoin L2 solutions
+-  Developing CEX/DEX components
+- Working with infrastructure and monitoring tools
 
 ### Previous Projects
-- 💻 Backend Development
+  - 💻 Backend Development
   - Built microservices in Rust
   - Worked with PHP frameworks
   - Developed server-side applications
-- 🌐 Frontend Development
+  - Frontend Development
   - Created Web3 applications
   - Implemented real-time data solutions
 
