@@ -13,7 +13,7 @@
 <h1 align="center"> About Me 📑 </h1>
 
 -  Currently building [Flashnet](https://www.flashnet.xyz/) at Polarity
-- 💻Software Developer working with Rust and C++
+-  Software Developer working with Rust and C++
 -  Focused on Web3 and distributed systems
 -  Working with Bitcoin
 - Rustacean
@@ -26,7 +26,7 @@
 - Working with infrastructure and monitoring tools
 
 ### Previous Projects
-  - 💻 Backend Development
+  - Backend Development
   - Built microservices in Rust
   - Worked with PHP frameworks
   - Developed server-side applications
